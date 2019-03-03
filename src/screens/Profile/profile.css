@@ -1,0 +1,78 @@
+.card {
+    min-width: 100%;
+    background-color: 'black',
+  }
+.bullet {
+    display: 'inline-block';
+    margin: '0 2px';
+    transform: 'scale(0.8)';
+  }
+.title {
+    font-size: 14;
+  }
+.pos {
+    margin-bottom: 12
+  }
+
+.avatar {
+    margin: 10px;
+  }
+.bigAvatar {
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+  }
+.fab {
+    /* margin: 10px; */
+    size: 0ex;
+  }
+.extendedIcon {
+    margin-right: 20px;
+  }
+.root {
+    flex-grow: 1;
+  }
+.paper {
+    width: 100%;
+    /* tect-align: 'center'; */
+  }
+
+.profilepic{
+    width: 100%;
+    text-align: center;
+}
+.MuiGridListTile-imgFullWidth-184{
+    top:177%;
+}
+
+.fullname{
+    position: 'absolute';
+    /* width: 50px; */
+    /* background-color: black; */
+    /* box-shadow: ; */
+    /* padding: 4em; */
+    text-align: left;
+    outline: 'none';
+}
+.bigAvatar {
+    margin: 10px;
+    width: 120px !important;
+    height: 120px !important;
+    float: right;
+  }
+  .username {
+    font-weight: bold;
+    margin-top: 25px !important;
+    padding: 0 8px 0 8px !important;
+}
+
+.fullname div {
+    text-align: right;
+    display: contents;
+}
+.fullname div button{
+margin-left: 10px;
+}
+.post-grid ul li {
+    height: auto !important;
+}
